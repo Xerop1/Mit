@@ -1,0 +1,232 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>18.06 Linear Algebra</title>
+  <link rel="stylesheet" href="css/mit.css">
+  <link rel="icon" type="image/x-icon" href="/html/images/mit-favicon.png">
+</head>
+<body>
+  <h1>
+    <font face="Georgia, Times">
+      <img src="images/mit-blackred-header1.gif" alt="MIT">
+      <br>18.06 Linear Algebra<br>
+    </font>
+    
+  </h1>
+  <hr>
+  <center>
+    <table class="menu" style="border-spacing: 10px 0;">
+      <tbody>
+        <tr>
+          <td>
+            <a href="https://web.mit.edu/18.06/www/index.shtml">Home</a>
+          </td>
+          <td>—</td>
+          <td>
+            <a href="https://github.com/mitmath/1806">Current Semester</a>
+          </td>
+          <td>—</td>
+          <td>
+            <a href="https://web.mit.edu/18.06/www/old.shtml">Archived Psets/Exams</a>
+          </td>
+          <td>—</td>
+          <td>
+            <a href="https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/">OpenCourseWare</a>
+          </td>
+          <td>—</td>
+          <td>
+            <a href="https://github.com/mitmath/julia-mit">Using Julia</a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </center>
+  <hr>
+
+  <h1>
+    Current semester: 18.06 on github
+  </h1>
+  <p>
+    You can often find the current semester of 18.06 at MIT hosted on the <a href="https://github.com/mitmath/1806">18.06 github web page</a>.
+  </p>
+  <p>
+    The github page includes not only exercises and exams, but also lecture summaries, notes, and computational examples using the <a href="https://julialang.org/">Julia</a> language.
+  </p>
+
+  <hr>
+
+  <h1>
+    Past semesters: Exercises and exams
+  </h1>
+  <img
+  src="/html/images/Strang.jpg" alt="Prof. Gil Strang MIT teaching 18.06" style="width: 218px; height: 193px; float: right;"
+  >
+  <p>
+    We have also collected <a href="https://web.mit.edu/18.06/www/old.shtml">archived problem sets and exams, with solutions</a> from many previous semesters of 18.06 at MIT.
+  </p>
+  <p>
+    You can also find archived materials from a few semesters on the <a href="https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/">18.06 OpenCourseWare page</a>, which also includes lecture videos.
+  </p>
+
+  <h1>
+    Lecture videos
+  </h1>
+  <p style="font-family: Georgia;">
+    Many people watch Gil Strang's 18.06 (Spring 2005) lecture videos on YouTube, which can also be found <a href="https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/">on OpenCourseWare</a>. For ease of access, we link the videos by topic below.
+  </p>
+  
+  <h2>
+    Videos by lecture topic:
+  </h2>
+  <table border="1" cellspacing="1" cellpadding="5">
+    <tbody>
+      <tr>
+        <td>
+          Lecture #1: The Geometry of Linear Equations (<a href="https://www.youtube.com/watch?v=J7DzL2_Na80" target="_blank">Watch!</a>)
+        </td>
+        <td>
+          Lecture #19: Determinant Formulas and Cofactors (<a href="https://www.youtube.com/watch?v=23LLB9mNJvc" target="_blank">Watch!</a>)
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor="#ebebeb">
+          Lecture #2: Elimination with Matrices (<a href="https://www.youtube.com/watch?v=QVKj3LADCnA" target="_blank">Watch!</a>)
+        </td>
+        <td bgcolor="#ebebeb">
+          Lecture #20: Cramer's Rule, Inverse Matrix, and Volume (<a href="https://www.youtube.com/watch?v=QNpj-gOXW9M" target="_blank">Watch!</a>)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Lecture #3: Multiplication and Inverse Matrices (<a href="https://www.youtube.com/watch?v=FX4C-JpTFgY" target="_blank">Watch!</a>)
+        </td>
+        <td>
+          Lecture #21: Eigenvalues and Eigenvectors (<a href="https://www.youtube.com/watch?v=lXNXrLcoerU" target="_blank">Watch!</a>)
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor="#ebebeb">
+          Lecture #4: Factorization into A = LU (<a href="https://www.youtube.com/watch?v=5hO3MrzPa0A" target="_blank">Watch!</a>)
+        </td>
+        <td bgcolor="#ebebeb">
+          Lecture #22: Diagonalization and Powers of A (<a href="https://www.youtube.com/watch?v=13r9QY6cmjc" target="_blank">Watch!</a>)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Lecture #5: Transposes, Permutations, Spaces R^n (<a href="https://www.youtube.com/watch?v=JibVXBElKL0" target="_blank">Watch!</a>)
+        </td>
+        <td>
+          Lecture #23: Differential Equations and exp(At) (<a href="https://www.youtube.com/watch?v=IZqwi0wJovM" target="_blank">Watch!</a>)
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor="#ebebeb">
+          Lecture #6: Column Space and Nullspace (<a href="https://www.youtube.com/watch?v=8o5Cmfpeo6g" target="_blank">Watch!</a>)
+        </td>
+        <td bgcolor="#ebebeb">
+          Lecture #24 : Markov Matrices; Fourier Series (<a href="https://www.youtube.com/watch?v=8MF3pz-oYHo" target="_blank">Watch!</a>)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Lecture #7: Solving Ax = 0: Pivot Variables, Special Solutions (<a href="https://www.youtube.com/watch?v=VqP2tREMvt0" target="_blank">Watch!</a>)
+        </td>
+        <td>
+          Lecture #24b : Quiz 2 Review (<a href="https://www.youtube.com/watch?v=sFxA8eIS6tA" target="_blank">Watch!</a>)
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor="#ebebeb">
+          Lecture #8: Solving Ax = b: Row Reduced Form R (<a href="https://www.youtube.com/watch?v=9Q1q7s1jTzU" target="_blank">Watch!</a>)
+        </td>
+        <td bgcolor="#ebebeb">
+          Lecture #25 : Symmetric Matrices and Positive Definiteness (<a href="https://www.youtube.com/watch?v=umt6BB1nJ4w" target="_blank">Watch!</a>)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Lecture #9: Independence, Basis, and Dimension (<a href="https://www.youtube.com/watch?v=yjBerM5jWsc" target="_blank">Watch!</a>)
+        </td>
+        <td>
+          Lecture #26 : Complex Matrices; Fast Fourier Transform (<a href="https://www.youtube.com/watch?v=M0Sa8fLOajA" target="_blank">Watch!</a>)
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor="#ebebeb">
+          Lecture #10: The Four Fundamental Subspaces (<a href="https://www.youtube.com/watch?v=nHlE7EgJFds" target="_blank">Watch!</a>)
+        </td>
+        <td bgcolor="#ebebeb">
+          Lecture #27 : Positive Definite Matrices and Minima (<a href="https://www.youtube.com/watch?v=vF7eyJ2g3kU" target="_blank">Watch!</a>)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Lecture #11: Matrix Spaces; Rank 1; Small World Graphs (<a href="https://www.youtube.com/watch?v=2IdtqGM6KWU" target="_blank">Watch!</a>)
+        </td>
+        <td>
+          Lecture #28 : Similar Matrices and Jordan Form (<a href="https://www.youtube.com/watch?v=z_zYQHmrh08" target="_blank">Watch!</a>)
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor="#ebebeb">
+          Lecture #12: Graphs, Networks, Incidence Matrices (<a href="https://www.youtube.com/watch?v=6-wh6yvk6uc" target="_blank">Watch!</a>)
+        </td>
+        <td bgcolor="#ebebeb">
+          Lecture #29 : Singular Value Decomposition (<a href="https://www.youtube.com/watch?v=Nx0lRBaXoz4" target="_blank">Watch!</a>)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Lecture #13: Quiz 1 Review (<a href="https://www.youtube.com/watch?v=l88D4r74gtM" target="_blank">Watch!</a>)
+        </td>
+        <td>
+          Lecture #30 : Linear Transformations and Their Matrices (<a href="https://www.youtube.com/watch?v=Ts3o2I8_Mxc" target="_blank">Watch!</a>)
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor="#ebebeb">
+          Lecture #14: Orthogonal Vectors and Subspaces (<a href="https://www.youtube.com/watch?v=YzZUIYRCE38" target="_blank">Watch!</a>)
+        </td>
+        <td bgcolor="#ebebeb">
+          Lecture #31: Change of Basis; Image Compression (<a href="https://www.youtube.com/watch?v=vGkn-3NFGck" target="_blank">Watch!</a>)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Lecture #15: Projections onto Subspaces (<a href="https://www.youtube.com/watch?v=Y_Ac6KiQ1t0" target="_blank">Watch!</a>)
+        </td>
+        <td>
+          Lecture #32: Quiz 3 Review (<a href="https://www.youtube.com/watch?v=HgC1l_6ySkc" target="_blank">Watch!</a>)
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor="#ebebeb">
+          Lecture #16: Projection Matrices and Least Squares (<a href="https://www.youtube.com/watch?v=osh80YCg_GM" target="_blank">Watch!</a>)
+        </td>
+        <td bgcolor="#ebebeb">
+          Lecture #33: Left and Right Inverses; Pseudoinverse (<a href="https://www.youtube.com/watch?v=Go2aLo7ZOlU" target="_blank">Watch!</a>)
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Lecture #17: Orthogonal Matrices and Gram-Schmidt (<a href="https://www.youtube.com/watch?v=uNsCkP9mgRk" target="_blank">Watch!</a>)
+        </td>
+        <td>
+          Lecture #34: Final Course Review (<a href="https://www.youtube.com/watch?v=RWvi4Vx4CDc" target="_blank">Watch!</a>)
+        </td>
+      </tr>
+      <tr>
+        <td bgcolor="#ebebeb">
+          Lecture #18: Properties of Determinants (<a href="https://www.youtube.com/watch?v=srxexLishgY" target="_blank">Watch!</a>)
+        </td>
+        <td bgcolor="#ebebeb">
+          &nbsp;
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <p></p>
+</body>
+</html>
