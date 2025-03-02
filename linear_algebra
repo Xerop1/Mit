@@ -3,13 +3,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>18.06 Linear Algebra</title>
-  <link rel="stylesheet" href="css/mit.css">
-  <link rel="icon" type="image/x-icon" href="/html/images/mit-favicon.png">
+  <link rel="stylesheet" href="linear_algebra.css">
+  <link rel="icon" type="image/x-icon" href="mit-favicon.png">
 </head>
 <body>
   <h1>
     <font face="Georgia, Times">
-      <img src="images/mit-blackred-header1.gif" alt="MIT">
+      <img src="mit-blackred-header1.gif" alt="MIT">
       <br>18.06 Linear Algebra<br>
     </font>
     
@@ -60,7 +60,7 @@
     Past semesters: Exercises and exams
   </h1>
   <img
-  src="/html/images/Strang.jpg" alt="Prof. Gil Strang MIT teaching 18.06" style="width: 218px; height: 193px; float: right;"
+  src="Strang.jpg" alt="Prof. Gil Strang MIT teaching 18.06" style="width: 218px; height: 193px; float: right;"
   >
   <p>
     We have also collected <a href="https://web.mit.edu/18.06/www/old.shtml">archived problem sets and exams, with solutions</a> from many previous semesters of 18.06 at MIT.
